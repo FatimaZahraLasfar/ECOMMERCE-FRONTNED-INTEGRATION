@@ -1,0 +1,6 @@
+{
+  "name": "Vero Movies",
+  "description": "AI-powered movie discovery platform and MLOps A/B experimentation console powered by FastAPI and MovieLens 100K.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
